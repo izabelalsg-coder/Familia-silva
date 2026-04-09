@@ -240,6 +240,14 @@ async function loadDevData(){
   const r=await fetch('devocionais.json?v='+Date.now());
   if(!r.ok)throw new Error('Arquivo devocionais.json não encontrado ('+r.status+')');
   _devData=await r.json();
+  // invalida cache se a versão mudou
+  const versaoSalva=S.get('dev-versao');
+  if(versaoSalva!==_devData.versao){
+    S.rm(`dev-${TODAY}`);
+    S.rm(`prayer-${TODAY}`);
+    S.rm(`theme-${WEEK_KEY}`);
+    S.set('dev-versao',_devData.versao);
+  }
   return _devData;
 }
 function getDayIndex(){
