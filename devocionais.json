@@ -1,310 +1,112 @@
 {
   "semanas": [
     {
-      "tema": "O Amor que Transforma",
+      "id": 1,
+      "tema": "Gratidão a Deus",
       "dias": [
         {
-          "titulo": "Novo Começo",
-          "versiculo": "Jeremias 29:11",
-          "versiculoTexto": "Porque sou eu que conheço os planos que tenho para vós, diz o SENHOR; planos de paz, e não de mal, para vos dar um futuro e uma esperança.",
-          "reflexao": "Cada amanhecer é um convite de Deus para recomeçar. Ele não guarda rancor de ontem; Seus planos para nossa família são sempre de esperança e prosperidade. Hoje, entregamos nossas preocupações nas mãos d'Aquele que conhece o fim desde o princípio.\n\nQuando olhamos para as circunstâncias ao nosso redor, é fácil nos sentirmos perdidos ou sem direção. Mas a Palavra de Deus nos lembra que há um propósito por trás de cada etapa da nossa jornada.",
-          "oracao": "Pai, obrigado por este novo dia. Guia cada membro desta família nos passos que deveremos dar hoje. Que possamos confiar em Teus planos e não nos apoiar em nosso próprio entendimento. Em nome de Jesus, amém.",
-          "missoes": [
-            "Ler a passagem de Jeremias 29 em família",
-            "Cada membro compartilha um sonho que tem para o futuro",
-            "Orar juntos pelos planos de Deus para a família",
-            "Escrever uma palavra de encorajamento para cada familiar",
-            "Agradecer a Deus por 3 bênçãos específicas desta semana"
-          ]
-        },
-        {
-          "titulo": "Amor em Ação",
-          "versiculo": "Mateus 22:37-39",
-          "versiculoTexto": "Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu entendimento. Este é o grande e primeiro mandamento. O segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo.",
-          "reflexao": "O amor não é apenas um sentimento, mas uma escolha diária de servir e valorizar o outro. Em família, o amor se manifesta nas pequenas ações: um abraço, uma palavra gentil, uma ajuda não pedida. Deus nos chamou para ser um reflexo do Seu amor.\n\nCada gesto de cuidado que oferecemos é um testemunho vivo do evangelho. Quando amamos de forma genuína, estamos declarando que o amor de Deus é real e transformador.",
-          "oracao": "Senhor, enche nossos corações com amor genuíno, primeiro por Ti e depois uns pelos outros. Que nossa família seja um lugar seguro onde o amor floresce e cresce todos os dias. Amém.",
-          "missoes": [
-            "Fazer algo especial e inesperado por um familiar hoje",
-            "Dizer 'eu te amo' para cada membro da família",
-            "Ajudar alguém de fora da família sem esperar retorno",
-            "Orar especificamente pelas necessidades de cada familiar",
-            "Jantar juntos sem celulares e conversar sobre gratidão"
-          ]
-        },
-        {
-          "titulo": "Força na Fraqueza",
-          "versiculo": "Filipenses 4:13",
-          "versiculoTexto": "Tudo posso naquele que me fortalece.",
-          "reflexao": "Há dias em que nos sentimos sem forças para enfrentar os desafios. Mas Deus não prometeu ausência de dificuldades; prometeu Sua presença em meio a elas. A fraqueza humana é o palco onde o poder divino mais brilha.\n\nQuando reconhecemos nossa limitação e nos voltamos para Deus, abrimos espaço para que Ele aja de maneiras que jamais conseguiríamos por conta própria. A dependência de Deus não é fraqueza; é sabedoria.",
-          "oracao": "Deus de toda força, quando nos sentirmos esgotados, lembra-nos que podemos correr para Ti e renovar nossas forças. Que nossa família aprenda a depender de Ti em cada circunstância. Amém.",
-          "missoes": [
-            "Compartilhar uma área onde precisa de força de Deus",
-            "Ler Isaías 40:28-31 e meditar nas promessas",
-            "Orar especificamente por alguém que está fraco hoje",
-            "Praticar um ato de perseverança mesmo quando difícil",
-            "Listar 5 vezes em que Deus deu força em situações difíceis"
-          ]
-        },
-        {
-          "titulo": "Paz que Excede",
-          "versiculo": "Filipenses 4:6-7",
-          "versiculoTexto": "Não andeis ansiosos por coisa alguma; antes, em tudo, apresentai as vossas petições a Deus em oração e súplica, com ação de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus.",
-          "reflexao": "A ansiedade é o oposto da fé. Quando escolhemos orar em vez de nos preocupar, abrimos espaço para que a paz de Deus invada nosso coração. Essa paz não faz sentido para o mundo — ela vem de saber que estamos nas mãos do Pai.\n\nDeus nos convida a trazer cada preocupação a Ele como um ato de confiança. Não porque Ele não saiba, mas porque esse ato fortalece nossa fé e nos lembra de quem está no controle.",
-          "oracao": "Pai, entregamos nossas preocupações de hoje a Ti. Substitui nossa ansiedade pela paz que só Tu podes dar. Guarda nossos corações e mentes em Cristo Jesus. Amém.",
-          "missoes": [
-            "Escrever suas preocupações e simbolicamente entregá-las a Deus",
-            "Praticar 5 minutos de silêncio e oração pela manhã",
-            "Substituir uma queixa por uma ação de graças ao longo do dia",
-            "Compartilhar com a família o que tem gerado ansiedade",
-            "Memorizar Filipenses 4:6-7 juntos"
-          ]
-        },
-        {
-          "titulo": "Gratidão Constante",
+          "dia": 1,
+          "titulo": "Gratidão como estilo de vida",
           "versiculo": "1 Tessalonicenses 5:18",
-          "versiculoTexto": "Rendei graças em tudo, porque esta é a vontade de Deus em Cristo Jesus para convosco.",
-          "reflexao": "A gratidão é a linguagem da fé. Quando agradecemos mesmo nas situações difíceis, estamos declarando que confiamos no caráter de Deus. Uma família que cultiva gratidão desenvolve resiliência, alegria e perspectiva espiritual.\n\nA ciência e a fé concordam: pessoas gratas são mais felizes, mais resilientes e mais conectadas com os outros. A gratidão transforma não apenas nosso humor, mas nossa forma de enxergar a vida inteira.",
-          "oracao": "Senhor, obrigado por cada bênção que recebemos sem perceber. Abre nossos olhos para reconhecer Tua bondade em cada momento deste dia. Que a gratidão seja o tom de nossa família. Amém.",
+          "versiculoTexto": "Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco.",
+          "reflexao": "Paulo escreveu 'em tudo dai graças' a uma comunidade que enfrentava perseguição, dificuldades e incertezas. Não foi uma instrução ingênua — foi uma revelação profunda de que a gratidão não nasce das circunstâncias, mas da certeza de quem está no controle delas.\n\nPara a família, cultivar a gratidão é uma escolha diária. Não é fingir que tudo está bem — é reconhecer que, mesmo quando as coisas não estão, Deus ainda é bom. Quando uma família pratica a gratidão juntos, ela muda o clima da casa. Onde havia reclamação, começa a haver reconhecimento. Onde havia comparação, começa a haver contentamento.\n\nEsta semana, o convite é este: transformar a gratidão em hábito familiar. Não apenas em momentos especiais, mas em tudo — no café da manhã, no abraço antes de sair, na oração antes de dormir.",
+          "oracao": "Pai, perdoa-nos pelas vezes em que enxergamos primeiro o que falta e esquecemos do quanto já recebemos. Ensina esta família a praticar a gratidão não como sentimento passageiro, mas como decisão firme.\n\nQue em cada dia desta semana encontremos motivos reais para agradecer. Que o nosso lar seja marcado mais pelo reconhecimento do que pela queixa, mais pela abundância do que pela escassez. Em nome de Jesus, amém.",
           "missoes": [
-            "Criar um diário de gratidão familiar com 3 entradas diárias",
-            "Agradecer pessoalmente a alguém que raramente ouve isso",
-            "Encontrar algo bom em uma situação que parece ruim",
-            "Orar somente com agradecimentos, sem pedidos",
-            "Preparar uma refeição juntos e agradecer por cada ingrediente"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Perdão que Liberta",
-          "versiculo": "Efésios 4:32",
-          "versiculoTexto": "Sede bondosos e compassivos uns para com os outros, perdoando-vos mutuamente, como também Deus vos perdoou em Cristo.",
-          "reflexao": "O perdão não é fraqueza; é a maior expressão de força e maturidade espiritual. Em família, mágoas e mal-entendidos são inevitáveis. Mas a decisão de perdoar liberta tanto quem é perdoado quanto quem perdoa, restaurando a harmonia que Deus deseja.\n\nGuardar mágoa é como beber veneno esperando que o outro sofra. O perdão nos liberta dessa prisão e nos restaura ao relacionamento pleno que Deus projetou para a família.",
-          "oracao": "Deus do perdão, ajuda-nos a perdoar uns aos outros com a mesma graça com que Tu nos perdoaste. Que não haja mágoa guardada entre nós. Que nossa família seja um lugar de restauração e paz. Amém.",
+          "dia": 2,
+          "titulo": "Não te esqueças dos Seus benefícios",
+          "versiculo": "Salmos 103:2",
+          "versiculoTexto": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios.",
+          "reflexao": "O coração humano tem uma tendência perigosa: esquecer. Esquecemos as bênçãos recebidas com a mesma velocidade com que as recebemos. O Salmo 103 é um remédio para essa amnésia espiritual — um convite para listar o que Deus fez e recusar o esquecimento.\n\nDavi começa falando com a própria alma: 'bendize, ó minha alma.' Às vezes precisamos falar com o nosso próprio coração antes de falar com Deus. Precisamos sentar, lembrar, e deixar a memória das graças de Deus reaquecer a gratidão que o dia a dia foi esfriando.\n\nPara a família, criar o hábito de lembrar juntos é poderoso. Quando os mais velhos contam aos mais novos o que Deus fez, a fé se fortalece e a gratidão ganha raízes que atravessam gerações.",
+          "oracao": "Senhor, que esta família não se esqueça dos Teus benefícios. Que as histórias de Tua bondade sejam contadas dentro da nossa casa, de pai para filho, de geração em geração.\n\nObrigado pelas bênçãos que lembramos e pelas que nem percebemos. Que a memória das Tuas graças seja sempre mais forte do que a memória das nossas dificuldades. Em nome de Jesus, amém.",
           "missoes": [
-            "Pedir perdão a alguém que você magoou",
-            "Perdoar alguém que te magoou, mesmo sem ser pedido",
-            "Ler a parábola do filho pródigo em Lucas 15 juntos",
-            "Conversar sobre como o perdão tem libertado a família",
-            "Orar por alguém com quem há conflito não resolvido"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Descanso no Senhor",
-          "versiculo": "Mateus 11:28",
-          "versiculoTexto": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos darei descanso.",
-          "reflexao": "Vivemos numa era que glorifica o cansaço como sinal de produtividade. Mas Deus criou o descanso como sagrado desde a criação. Descansar em Deus não é preguiça; é um ato de confiança de que Ele cuida do que está além do nosso alcance.\n\nO sabbath não foi dado apenas como dia de folga, mas como um lembrete de que nossa identidade não depende do que produzimos. Somos amados por quem somos, não pelo que fazemos.",
-          "oracao": "Jesus, vimos a Ti com nossos cansaços. Recebemos o Teu descanso para nossas almas. Ensina-nos a parar, respirar e lembrar que Tu és Deus e nós somos Teus filhos amados. Amém.",
+          "dia": 3,
+          "titulo": "Gratidão nos dias difíceis",
+          "versiculo": "Habacuque 3:17-18",
+          "versiculoTexto": "Ainda que a figueira não floresça, e não haja fruto na vide; ainda que o produto da oliveira falhe, e os campos não produzam mantimento; todavia me alegrarei no Senhor e exultarei no Deus da minha salvação.",
+          "reflexao": "Habacuque escreveu um dos textos mais corajosos da Bíblia. Ele descreveu o pior cenário possível — sem colheita, sem provisão, sem nada visível — e ainda assim concluiu: me alegrarei no Senhor. Isso não é negação da realidade. É uma escolha feita acima dela.\n\nGratidão nos dias difíceis é o teste mais honesto da fé. Qualquer um agradece quando tudo vai bem. Agradecer quando a conta não fecha, quando a saúde preocupa, quando o relacionamento está tenso — isso é gratidão madura, enraizada em Deus e não nas circunstâncias.\n\nQue esta família aprenda com Habacuque: quando não houver nada especial para agradecer nas coisas ao redor, há sempre o próprio Deus. E isso já é suficiente.",
+          "oracao": "Pai, há dias em que agradecer é difícil. Há cansaço, há medo, há decepções que ainda doem. Mas hoje escolhemos levantar a voz e dizer: mesmo assim, Tu és bom.\n\nQue esta família encontre em Ti a razão para a gratidão, especialmente nos momentos em que as circunstâncias não colaboram. Que o nosso louvor não dependa das condições, mas da certeza de quem Tu és. Em nome de Jesus, amém.",
           "missoes": [
-            "Dedicar 30 minutos de descanso intencional e sem telas",
-            "Fazer algo que renova suas energias e agradecer a Deus por isso",
-            "Orar ao acordar antes de verificar o celular",
-            "Desligar as telas uma hora antes de dormir",
-            "Compartilhar o que mais drena sua energia e orar sobre isso"
-          ]
-        }
-      ]
-    },
-    {
-      "tema": "Fé que Move Montanhas",
-      "dias": [
-        {
-          "titulo": "Luz no Caminho",
-          "versiculo": "Salmos 119:105",
-          "versiculoTexto": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-          "reflexao": "Em tempos de incerteza, a Palavra de Deus é nossa bússola. Ela não ilumina o horizonte todo de uma vez, mas dá luz suficiente para o passo seguinte. Uma família que se alimenta da Bíblia juntos cresce na sabedoria e na direção divina.\n\nLer a Bíblia em família não é apenas um exercício religioso; é um ato de investimento nas gerações. As verdades que plantamos nos corações dos nossos filhos hoje serão a âncora deles nos momentos de tempestade.",
-          "oracao": "Senhor, que Tua Palavra seja o fundamento de cada decisão que tomamos como família. Faz-nos ávidos por conhecer mais de Ti por meio das Escrituras. Amém.",
-          "missoes": [
-            "Ler um salmo juntos em voz alta",
-            "Memorizar Salmos 119:105 como família",
-            "Cada membro escolhe um versículo favorito e explica por quê",
-            "Aplicar um ensinamento bíblico em uma situação real do dia",
-            "Orar pedindo mais amor pela Palavra de Deus"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Cuidado do Pai",
-          "versiculo": "1 Pedro 5:7",
-          "versiculoTexto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
-          "reflexao": "Deus não é um Deus distante e desinteressado. Ele tem cuidado pessoal e atencioso de cada membro da nossa família. Cada detalhe da nossa vida importa para Ele. Podemos lançar sobre Ele cada preocupação com a certeza de que seremos ouvidos.\n\nAssim como um bom pai não quer ver seus filhos carregando fardos sozinhos, nosso Pai celestial nos convida a depositar em Suas mãos o que nos pesa. Esse é o privilégio dos filhos de Deus.",
-          "oracao": "Pai celestial, obrigado por Teu cuidado constante. Ensina-nos a delegar nossas preocupações a Ti em vez de carregar fardos que não nos pertencem. Cuida de cada necessidade desta família hoje. Amém.",
+          "dia": 4,
+          "titulo": "A família como dádiva de Deus",
+          "versiculo": "Salmos 128:3",
+          "versiculoTexto": "A tua mulher será como a videira frutífera dentro da tua casa; os teus filhos, como plantas de oliveira em derredor da tua mesa.",
+          "reflexao": "O Salmo 128 pinta um quadro simples e bonito: a família reunida ao redor da mesa. Filhos como plantas de oliveira — árvores que levam tempo para crescer, mas que frutificam por gerações. A imagem não é de uma família perfeita, mas de uma família abençoada pela presença de Deus.\n\nÉ fácil conviver com quem amamos sem parar para reconhecer o dom que eles são. A rotina embota a gratidão. Vemos os mesmos rostos todos os dias e esquecemos de enxergá-los como graças de Deus — pessoas únicas, escolhidas por Ele para caminhar conosco.\n\nHoje é um dia para olhar ao redor e reconhecer: cada pessoa desta família é um presente. Com suas imperfeições, seus jeitos, seus momentos difíceis — são presentes dados por Deus. E presentes merecem ser reconhecidos.",
+          "oracao": "Senhor, obrigado pela família que nos deste. Obrigado por cada nome, cada rosto, cada história que se entrelaça com a nossa.\n\nQue nunca nos tornemos indiferentes à graça de ter uns aos outros. Que olhemos para cada membro desta família com olhos de gratidão, reconhecendo que tudo que temos foi dado por Ti. Em nome de Jesus, amém.",
           "missoes": [
-            "Listar as preocupações da semana e orar sobre cada uma",
-            "Testemunhar de uma vez que Deus cuidou de forma inesperada",
-            "Ajudar alguém de fora da família que está sobrecarregado",
-            "Passar 10 minutos em silêncio recebendo o cuidado de Deus",
-            "Escrever uma carta de gratidão a Deus pelo Seu cuidado"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Família Edificada",
-          "versiculo": "Salmos 127:1a",
-          "versiculoTexto": "Se o SENHOR não edificar a casa, em vão trabalham os que a edificam.",
-          "reflexao": "Uma família verdadeiramente sólida não se constrói apenas com esforço humano, mas com fundamento divino. Deus é o arquiteto que conhece os projetos perfeitos para nossa casa. Quando O convidamos a ser o Senhor de nosso lar, tudo muda.\n\nNossas casas podem ser lugares de paz ou de caos. A diferença não está no tamanho, na renda ou nas circunstâncias externas, mas na presença de Deus como centro de tudo o que fazemos.",
-          "oracao": "Senhor, sê o centro desta família. Guia nossas decisões, orçamentos, relacionamentos e prioridades. Que nossa casa seja edificada sobre a rocha firme que é Cristo. Amém.",
+          "dia": 5,
+          "titulo": "Gratidão que transborda em louvor",
+          "versiculo": "Salmos 107:1",
+          "versiculoTexto": "Dai graças ao Senhor porque ele é bom, porque a sua misericórdia dura para sempre.",
+          "reflexao": "O Salmo 107 começa com um convite e depois narra histórias de pessoas que estavam perdidas, presas, doentes, em perigo — e que clamaram a Deus e foram socorridas. Após cada relato, o Salmo retorna ao mesmo refrão: que deem graças ao Senhor pela Sua misericórdia.\n\nA gratidão que não transborda em louvor ainda é pequena demais. Quando a família passa por um momento de resgate — uma conta que se resolveu, uma cura, uma reconciliação — isso merece ser celebrado em voz alta, juntos. O louvor compartilhado multiplica a fé de todos.\n\nQue esta família tenha o hábito de celebrar. De contar as histórias de Deus, de dar graças em voz alta, de louvar juntos — não apenas em dias de culto, mas em qualquer dia em que a bondade de Deus for lembrada.",
+          "oracao": "Pai, obrigado por seres bom. Não apenas quando sentimos, mas sempre — porque a Tua bondade não depende das nossas percepções.\n\nQue esta família seja uma família que louva. Que os nossos momentos juntos sejam marcados por histórias de graça que nos lembram de quem Tu és. Que a gratidão que nasce dentro de nós transborde em palavras, em louvor e em testemunho. Em nome de Jesus, amém.",
           "missoes": [
-            "Criar uma regra de oração antes das refeições esta semana",
-            "Identificar uma área da família que precisa ser entregue a Deus",
-            "Planejar algo que a família pode fazer unida para glorificar a Deus",
-            "Ler Salmos 127 juntos e conversar sobre o que significa",
-            "Orar pela casa e por cada cômodo, dedicando a Deus"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Fé que Move",
-          "versiculo": "Hebreus 11:1",
-          "versiculoTexto": "Ora, a fé é a certeza de coisas que se esperam e a convicção de coisas que não se veem.",
-          "reflexao": "A fé não ignora a realidade; ela enxerga além dela. É a capacidade de agir baseado no caráter de Deus mesmo quando as circunstâncias parecem contraditórias. Uma família que caminha na fé deixa um legado que atravessa gerações.\n\nOs heróis da fé em Hebreus 11 não tiveram vidas fáceis. Mas cada um escolheu confiar em Deus além do que seus olhos podiam ver. Essa é a herança que somos chamados a transmitir.",
-          "oracao": "Deus, aumenta nossa fé. Onde temos duvidado, renova nossa confiança em Ti. Que nossa família seja conhecida pela fé ativa que transforma situações impossíveis. Amém.",
+          "dia": 6,
+          "titulo": "Contentamento como forma de gratidão",
+          "versiculo": "Filipenses 4:11-12",
+          "versiculoTexto": "Aprendi a estar contente em qualquer estado em que me encontre. Sei estar abatido e sei também ter abundância; em toda maneira e em todas as coisas estou instruído, tanto a ter fartura como a ter fome.",
+          "reflexao": "Paulo aprendeu o contentamento — e a palavra aprendeu é importante. Não foi algo que ele sempre teve. Foi uma disciplina que se desenvolveu ao longo das experiências, das perdas e das provisões inesperadas de Deus.\n\nVivemos numa cultura que treina o descontentamento. Sempre há algo melhor, maior, mais novo para querer. Quando essa mentalidade entra na família, começa a corroer a gratidão. Comparar o que se tem com o que ainda falta é um roubo silencioso da alegria.\n\nO contentamento não é resignação — é a capacidade de reconhecer que, no momento presente, Deus está sendo suficiente. O que se tem foi dado por Ele. E isso é razão suficiente para agradecer.",
+          "oracao": "Senhor, perdoa-nos pelas vezes em que olhamos para o que não temos e esquecemos de agradecer pelo que já recebemos. Ensina esta família a encontrar beleza e suficiência no que Tu já deste.\n\nQue o contentamento seja uma marca da nossa casa. Não a passividade de quem parou de sonhar, mas a paz de quem confia que Deus provê — no tempo e na medida certos. Em nome de Jesus, amém.",
           "missoes": [
-            "Ler Hebreus 11 e escolher um herói da fé para estudar",
-            "Compartilhar uma situação que exige fé no momento",
-            "Dar um passo de fé em algo que tem adiado por medo",
-            "Orar com confiança por algo que parece impossível",
-            "Testimonhar como Deus respondeu a uma oração de fé no passado"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         },
         {
-          "titulo": "Generosidade de Coração",
-          "versiculo": "2 Coríntios 9:7",
-          "versiculoTexto": "Cada um dê conforme propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama o doador alegre.",
-          "reflexao": "A generosidade é um estilo de vida que rompe o ciclo do egoísmo e transforma não apenas quem recebe, mas especialmente quem dá. Famílias generosas criam filhos com coração largo e perspectiva eterna sobre os bens materiais.\n\nDeus deu o Seu melhor por nós. Quando somos generosos, estamos imitando o coração do Pai. A generosidade não empobrecemos; nos transforma e nos conecta ao ritmo do reino de Deus.",
-          "oracao": "Pai, liberta-nos do apego excessivo às coisas materiais. Que nossa família seja conhecida pela generosidade e pelo espírito de partilha. Que demos com alegria e sem calcular o retorno. Amém.",
+          "dia": 7,
+          "titulo": "Celebrando juntos a bondade de Deus",
+          "versiculo": "Salmos 34:3",
+          "versiculoTexto": "Engrandecei o Senhor comigo, e exaltemos o seu nome juntos.",
+          "reflexao": "Davi usou o plural: engrandecei comigo. Ele não quis louvar sozinho. Há algo no louvor compartilhado que é maior do que a soma das partes. Quando uma família engrandece a Deus juntos, a presença Dele se faz sentir de forma especial.\n\nAo encerrar esta semana de gratidão, o convite é para celebrar juntos. Não apenas cada um na sua oração privada, mas reunidos — lembrando o que Deus fez, reconhecendo Suas graças e exaltando Seu nome como família.\n\nEsta semana de devocionais foi ela mesma uma razão de gratidão. Cada texto lido, cada missão cumprida, cada oração feita plantou algo que pode durar muito além desta semana.",
+          "oracao": "Senhor, ao final desta semana, chegamos diante de Ti com corações gratos. Obrigado por cada dia, por cada palavra, por cada momento em que nos reuniste ao redor de Ti.\n\nQue esta família continue crescendo na gratidão. Que o hábito de agradecer se torne parte de quem somos — não apenas em uma semana, mas como postura de vida. Que o Teu nome seja engrandecido em nossa casa, hoje e sempre. Em nome de Jesus, amém.",
           "missoes": [
-            "Separar algo para doar para alguém necessitado",
-            "Oferecer seu tempo para servir a alguém da comunidade",
-            "Preparar um alimento e presentear um vizinho",
-            "Conversar sobre como a família pode ser mais generosa",
-            "Orar pedindo um coração que ama dar mais do que receber"
-          ]
-        },
-        {
-          "titulo": "Palavras que Edificam",
-          "versiculo": "Efésios 4:29",
-          "versiculoTexto": "Nenhuma palavra torpe saia da vossa boca; mas só a que for boa para edificação, conforme a necessidade, para que transmita a graça aos que ouvem.",
-          "reflexao": "As palavras têm poder de vida e de morte. No ambiente familiar, as palavras que dizemos constroem ou destroem identidade, confiança e relacionamento. Cada conversa é uma oportunidade de depositar vida no coração dos que amamos.\n\nPesquisas mostram que crianças que ouvem palavras de afirmação dos pais desenvolvem maior autoestima e resiliência. O que dizemos em casa forma quem nossos filhos serão no mundo.",
-          "oracao": "Deus, coloca guarda em nossas bocas. Que as palavras que trocamos em família sejam sempre de encorajamento, verdade e amor. Perdoa-nos pelas palavras que já feriram. Amém.",
-          "missoes": [
-            "Dizer algo específico de afirmação para cada familiar",
-            "Evitar reclamações por um dia inteiro",
-            "Escrever um bilhete de encorajamento para alguém da família",
-            "Antes de falar, perguntar: isso vai edificar ou destruir?",
-            "Orar pedindo domínio próprio nas palavras que diz"
-          ]
-        },
-        {
-          "titulo": "Serviço com Amor",
-          "versiculo": "Mateus 23:11",
-          "versiculoTexto": "O maior entre vós será vosso servo.",
-          "reflexao": "Jesus redefiniu grandeza como serviço. Em família, o mais maduro espiritualmente não é o que mais manda, mas o que mais serve. Quando servimos uns aos outros com alegria, vivemos o evangelho dentro de casa.\n\nO pé lavado por Jesus era o símbolo máximo de humildade na cultura daquela época. Quando servimos sem exigir reconhecimento, estamos seguindo o exemplo do próprio Filho de Deus.",
-          "oracao": "Jesus, que serviste com excelência até o fim, ensina-nos a servir uns aos outros sem orgulho ou ressentimento. Que o espírito de serviço defina nossa família. Amém.",
-          "missoes": [
-            "Fazer uma tarefa doméstica que normalmente não é sua",
-            "Servir o café da manhã para alguém da família sem ser pedido",
-            "Oferecer ajuda em algo que a outra pessoa está sofrendo",
-            "Ler João 13:1-17 e meditar no exemplo de Jesus",
-            "Orar para que o espírito de serviço cresça na família"
-          ]
-        }
-      ]
-    },
-    {
-      "tema": "Comunhão e Unidade",
-      "dias": [
-        {
-          "titulo": "Confiança Renovada",
-          "versiculo": "Provérbios 3:5-6",
-          "versiculoTexto": "Confia no SENHOR de todo o teu coração e não te apoies no teu próprio entendimento; reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.",
-          "reflexao": "Nossa inteligência humana tem limites. Quando confiamos apenas em nossa compreensão, frequentemente nos perdemos. A sabedoria começa quando reconhecemos nossa limitação e convidamos Deus a guiar cada decisão.\n\nA confiança não se desenvolve instantaneamente; ela é construída na história de fidelidade que vivemos com Deus. Cada vez que confiamos e vemos Ele agir, nossa fé cresce para os próximos desafios.",
-          "oracao": "Pai, que nossa família aprenda a Te consultar antes de decidir. Que abdicemos do controle e confiemos no Teu governo soberano sobre cada área de nossas vidas. Amém.",
-          "missoes": [
-            "Apresentar a Deus em oração uma decisão que está pendente",
-            "Testemunhar de uma decisão que melhorou quando Deus foi incluído",
-            "Ler Provérbios 3:1-12 juntos e conversar sobre aplicações práticas",
-            "Identificar uma área onde tem confiado mais em si do que em Deus",
-            "Orar pedindo sabedoria específica para uma situação atual"
-          ]
-        },
-        {
-          "titulo": "Comunhão e Unidade",
-          "versiculo": "Salmos 133:1",
-          "versiculoTexto": "Como é bom e agradável viverem os irmãos em união!",
-          "reflexao": "A unidade familiar é um dos presentes mais preciosos que podemos oferecer uns aos outros. Ela não significa ausência de diferenças, mas a escolha de priorizar o relacionamento acima das divergências. Onde há unidade, Deus ordena bênçãos.\n\nFamílias unidas não acontecem por acaso; são o resultado de escolhas diárias de comunicação, perdão, cuidado e tempo compartilhado. Cada momento juntos é um investimento na coesão que sustentará a família nas tempestades.",
-          "oracao": "Senhor, que a unidade seja uma marca desta família. Onde houver divisão, que Teu amor seja o agente de reconciliação. Que forjemos memórias de comunhão que durem toda a vida. Amém.",
-          "missoes": [
-            "Fazer uma atividade que todos na família apreciem juntos",
-            "Conversar sobre uma tradição familiar que gostariam de criar",
-            "Cada membro expressa o que mais ama na família",
-            "Orar por unidade nas áreas onde há mais tensão",
-            "Planejar uma surpresa para a família que envolva a participação de todos"
-          ]
-        },
-        {
-          "titulo": "Misericórdia Nova",
-          "versiculo": "Lamentações 3:22-23",
-          "versiculoTexto": "As misericórdias do SENHOR não têm fim, as suas compaixões não se esgotam. Renovam-se cada manhã; grande é a tua fidelidade!",
-          "reflexao": "Não importa o que aconteceu ontem. Cada manhã traz um reservatório fresco de misericórdia divina. Esse é o fundamento do recomeço cristão: Deus não se cansa de nos restaurar. E somos chamados a estender essa misericórdia uns aos outros.\n\nO livro de Lamentações foi escrito em meio à destruição de Jerusalém. Mesmo no pior momento, o profeta encontrou fundamento na fidelidade de Deus. Esse é o testemunho que precisamos carregar: nos piores momentos, Deus ainda é fiel.",
-          "oracao": "Deus fiel, obrigado por Tuas misericórdias renovadas hoje. Que nossa família respire esse ar de graça e o distribua generosamente para todos ao nosso redor. Amém.",
-          "missoes": [
-            "Começar o dia agradecendo pela misericórdia de Deus",
-            "Mostrar misericórdia a alguém que não merece humanamente",
-            "Ler Lamentações 3:19-26 e meditar no contexto do sofrimento",
-            "Compartilhar como Deus tem sido fiel mesmo nos momentos difíceis",
-            "Orar pelas pessoas ao redor que precisam experimentar a misericórdia de Deus"
-          ]
-        },
-        {
-          "titulo": "Integridade no Dia a Dia",
-          "versiculo": "Lucas 16:10",
-          "versiculoTexto": "O que é fiel no mínimo também o é no muito; e o que é injusto no mínimo, também o é no muito.",
-          "reflexao": "O caráter se revela nas pequenas coisas. Ser honesto quando ninguém vê, cumprir a palavra quando é inconveniente, tratar com cuidado o que pertence a outros — esses pequenos atos constroem a integridade que sustenta uma família sólida.\n\nFilhos que veem os pais agindo com integridade nas pequenas coisas aprendem que valores não são para exibição, mas para prática. A integridade é o investimento mais duradouro que podemos deixar como herança.",
-          "oracao": "Senhor, forma em nós um caráter de integridade. Que nossa família seja conhecida pela honestidade e coerência entre o que cremos e como vivemos. Amém.",
-          "missoes": [
-            "Identificar uma área em que quer crescer em integridade",
-            "Cumprir uma promessa que havia feito e adiado",
-            "Ser honesto em uma situação onde seria fácil desviar a verdade",
-            "Conversar sobre a diferença entre ser íntegro e ser perfeito",
-            "Orar pedindo que Deus revele áreas onde há incoerência"
-          ]
-        },
-        {
-          "titulo": "Oração que Prevalece",
-          "versiculo": "Mateus 7:7",
-          "versiculoTexto": "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.",
-          "reflexao": "Jesus nos ensinou a persistência na oração com três verbos no imperativo: pedir, buscar, bater. A oração não muda a vontade de Deus, mas nos posiciona para receber o que Ele já preparou para nós. Uma família que ora junta permanece junta.\n\nA oração é o maior privilégio do filho de Deus. Ter acesso direto ao trono do criador do universo, a qualquer momento, em qualquer lugar, é uma realidade que ainda não compreendemos plenamente.",
-          "oracao": "Pai, que a oração seja o alicerce desta família. Que tenhamos fé para pedir grandes coisas e paciência para esperar o tempo de Deus. Que nossa vida de oração seja um testemunho vivo. Amém.",
-          "missoes": [
-            "Criar uma lista de oração familiar com pedidos específicos",
-            "Orar juntos em voz alta por 15 minutos",
-            "Retornar a uma oração antiga e verificar como Deus respondeu",
-            "Ensinar as crianças a orar com suas próprias palavras",
-            "Orar pela família antes de cada refeição esta semana"
-          ]
-        },
-        {
-          "titulo": "Esperança que não Decepciona",
-          "versiculo": "Romanos 5:5",
-          "versiculoTexto": "E a esperança não decepciona, porque o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.",
-          "reflexao": "A esperança bíblica não é um desejo vago. É uma âncora segura lançada no caráter imutável de Deus. Diante de diagnósticos difíceis, relacionamentos rompidos ou sonhos adiados, a esperança cristã sustenta.\n\nO Espírito Santo é a garantia de que a esperança que temos não é ilusória. Ele mesmo derrama em nossos corações a certeza do amor de Deus, tornando a esperança mais do que um sentimento: uma convicção.",
-          "oracao": "Deus da esperança, onde alguém nesta família estiver sem esperança hoje, enche-o com certeza de que Tu és fiel. Que sejamos portadores de esperança genuína para um mundo que tanto precisa. Amém.",
-          "missoes": [
-            "Compartilhar uma situação em que perdeu e recuperou a esperança",
-            "Encorajar alguém que está passando por dificuldades",
-            "Ler Romanos 5:1-5 e conversar sobre o processo de tribulação à esperança",
-            "Orar por esperança renovada em uma área específica da família",
-            "Escrever uma carta para si mesmo sobre o que espera de Deus"
-          ]
-        },
-        {
-          "titulo": "Legado de Fé",
-          "versiculo": "Provérbios 22:6",
-          "versiculoTexto": "Instruí o jovem no caminho em que deve andar; e até quando envelhecer não se desviará dele.",
-          "reflexao": "Uma das mais poderosas heranças que podemos deixar aos nossos filhos não é financeira, mas espiritual. A fé transmitida de geração em geração através do exemplo, da oração conjunta e da vida devocional constrói um legado eterno.\n\nO que plantamos hoje na vida dos nossos filhos frutificará décadas depois. Cada oração dita em família, cada vez que lemos a Bíblia juntos, cada momento em que demonstramos fé nas dificuldades — tudo isso é semente para o legado que deixaremos.\n",
-          "oracao": "Senhor, ajuda-nos a ser exemplo de fé para os filhos e netos desta família. Que o que plantamos hoje produza frutos espirituais nas gerações que virão. Amém.",
-          "missoes": [
-            "Perguntar aos mais velhos da família sobre sua jornada de fé",
-            "Compartilhar com as crianças uma história de como Deus agiu na família",
-            "Planejar como transmitir valores de fé nas próximas gerações",
-            "Ler Deuteronômio 6:4-9 e conversar sobre o que significa na prática",
-            "Orar pelo legado espiritual que a família deixará"
+            "Escreva três coisas pelas quais você é grato hoje e compartilhe com a família",
+            "Diga obrigado a um familiar por algo específico que ele faz por você, olhando nos olhos",
+            "Antes de uma refeição, peça para cada membro da família dizer uma coisa pela qual é grato",
+            "Envie uma mensagem de agradecimento para alguém que tem sido uma bênção para a família",
+            "Ore agradecendo a Deus por cada membro da família pelo nome, sem pedir nada"
           ]
         }
       ]
